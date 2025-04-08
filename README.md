@@ -45,7 +45,7 @@
 #### 🧠 Backend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANestJS.svg&psig=AOvVaw0GFBvYNEuABCWuJujFukEx&ust=1744191003573000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLixifuPyIwDFQAAAAAdAAAAABAE" alt="NestJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/nestjs/docs.nestjs.com/master/src/assets/logo-small.svg" alt="NestJS" width="40" height="40"/>
 </p>
 
 #### 🗄️ Databases
