@@ -63,6 +63,5 @@
 ---
 
 ### 💳 Support
-
-**MBBank**  
-📱 **0816688246** - **Lê Văn Tu Quý**
+📱 **0816688246** - **Lê Tứ Quý**
+📫 **Email** - **levantuquy@gmail.com**
